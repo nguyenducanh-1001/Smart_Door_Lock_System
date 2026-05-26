@@ -22,7 +22,6 @@ The project is implemented without HAL libraries to improve low-level embedded p
 ## Password Authentication
 
 - 6-digit password input
-- Password masking using `*`
 - Backspace support using `#`
 - Change password mode using `*`
 
