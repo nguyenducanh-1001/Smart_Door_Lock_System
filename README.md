@@ -200,6 +200,7 @@ Core Modules:
 # Author
 
 **Đức Anh Nguyễn - 23020780**
+
 **Nguyễn Quang Bảo - 23020784**
 
 Introduction to Embedded Systems — UET - VNU
