@@ -1,4 +1,4 @@
-# Smart Door Lock System using STM32F401 + RFID RC522
+# Smart Door Lock System using STM32F401RE + RFID RC522
 
 ## Overview
 
