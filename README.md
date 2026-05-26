@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a smart door lock system developed using **STM32F401CCU6** with bare-metal register programming.
+This project is a smart door lock system developed using **STM32F401RE** with bare-metal register programming.
 
 The system supports:
 
@@ -53,7 +53,7 @@ The project is implemented without HAL libraries to improve low-level embedded p
 
 | Component     | Description            |
 | ------------- | ---------------------- |
-| STM32F401CCU6 | Main MCU               |
+| STM32F401RE   | Main MCU               |
 | RC522         | RFID Reader            |
 | SG90 Servo    | Door lock actuator     |
 | 16x2 LCD I2C  | Display                |
